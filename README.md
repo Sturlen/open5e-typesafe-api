@@ -1,3 +1,5 @@
+> Moved to https://github.com/Sturlen/open5e-ts/
+
 Makes working with Open5e data in Typescript a breeze. All data is validated using Zod schemas, which gives you great autocomplete and runtime safety.
 
 # Install
